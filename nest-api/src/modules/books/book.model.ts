@@ -1,0 +1,37 @@
+// src/modules/books/book.model.ts
+import { AuthorId } from '../authors/author.entity';
+
+export type BookAuthorModel = {
+  firstName: string;
+  lastName: string;
+} | null; // allow null when author isn't loaded
+
+export type BookModel = {
+  id: string;
+  title: string;
+  author: BookAuthorModel;
+  yearPublished: number;
+  picture?: string;
+  quantity: number;
+};
+
+export type CreateBookModel = {
+  title: string;
+  authorId: AuthorId;
+  yearPublished: number;
+  picture?: string;
+  quantity?: number;
+};
+
+export type UpdateBookModel = Partial<CreateBookModel>;
+
+export type FilterBooksModel = {
+  limit: number;
+  offset: number;
+  sort?: Partial<Record<keyof BookModel, 'ASC' | 'DESC'>>;
+};
+
+export type GetBooksModel = {
+  totalCount: number;
+  data: BookModel[];
+};
