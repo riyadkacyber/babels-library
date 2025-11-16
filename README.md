@@ -104,7 +104,11 @@ The backend server will run by default on http://localhost:3000
 
 #### Terminal 2  -  Frontend
 ```bash
-# 3. Frontend Setup (React + TypeScript) cd react-app npm install # Running the Frontend Server npm run dev # (The frontend server will run by default on http://localhost:5173)
+ cd react-app
+npm install
+# Running the Frontend Server
+ npm run dev
+# (The frontend server will run by default on http://localhost:5173)
 
 ```
 ## Features Implemented
