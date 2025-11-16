@@ -110,7 +110,7 @@ npm install
 # Running the Frontend Server
  npm run dev
 # (The frontend server will run by default on http://localhost:5173)
-
+# It may take a few seconds for the page to load and display in your browser.
 ```
 ## Features Implemented
 
