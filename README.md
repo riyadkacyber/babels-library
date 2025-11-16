@@ -58,7 +58,7 @@ npm run start:dev
 # (The backend server will run by default on http://localhost:3000)
 
 # 3. Frontend Setup (React + TypeScript)
-cd ../react-app
+cd react-app
 npm install
 
 # Running the Frontend Server
