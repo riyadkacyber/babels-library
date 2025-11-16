@@ -44,7 +44,7 @@ This project is divided into two main parts:
 
 #### 1. Clone the Repository
 bash
-git clone https://github.com/yourusername/babels-library.git
+git clone https://github.com/riyadkacyber/babels-library
 cd m1-s1-2025-project-main
 
 
