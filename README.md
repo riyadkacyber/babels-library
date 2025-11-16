@@ -43,10 +43,9 @@ This project is divided into two main parts:
 ### Installation Steps
 
 #### 1. Clone the Repository
-bash
+```bash
 git clone https://github.com/riyadkacyber/babels-library
 cd babels-library
-
 
 
 #### 2. Backend Setup (NestJS)
