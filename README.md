@@ -45,7 +45,8 @@ This project is divided into two main parts:
 #### 1. Clone the Repository
 bash
 git clone https://github.com/riyadkacyber/babels-library
-cd m1-s1-2025-project-main
+cd babels-library
+
 
 
 #### 2. Backend Setup (NestJS)
