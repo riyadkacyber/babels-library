@@ -105,7 +105,7 @@ The backend server will run by default on http://localhost:3000
 #### Terminal 2  -  Frontend
 ```bash
 #  Frontend Setup
-cd react-app
+cd babels-library/react-app
 npm install
 # Running the Frontend Server
  npm run dev
