@@ -43,12 +43,7 @@ This project is divided into two main parts:
 # Babel's Library Management System
 
 ## Name
-KARIMI Riyad ,  
-MRABET Mohamed,  
-SABIR Reda,  
-El MOUNTACIR Ilyas,  
-MOUSSA Abderrahmane,  
-CHAFIK Reda  
+KARIMI Riyad   
 
 ## Description
 Babel's Library is a modern, full-stack bookstore management system built using NestJS for the backend and React with TypeScript for the frontend. It allows users to manage books, authors, clients, and sales transactions with a professional, intuitive interface.
