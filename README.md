@@ -106,26 +106,26 @@ npm install
 ## Features Implemented
 
 ### Core Functionality
-- ✅ **Book Management** : Complete CRUD operations with image upload and pagination
-- ✅ **Author Management** : Profile management with average sales calculation
-- ✅ **Client Management** : Customer database with email validation (@)
-- ✅ **Sales Tracking** : Transaction recording with automatic inventory updates
+-  **Book Management** : Complete CRUD operations with image upload and pagination
+-  **Author Management** : Profile management with average sales calculation
+-  **Client Management** : Customer database with email validation (@)
+-  **Sales Tracking** : Transaction recording with automatic inventory updates
 
 ### User Interface
-- ✅ Professional card‑based layouts with 5‑column responsive grid
-- ✅ Real‑time statistics dashboard with live data
-- ✅ Breadcrumb navigation on all pages
-- ✅ Image compression for uploads
-- ✅ Modal‑based editing interfaces
-- ✅ Timeline‑style sales display
-- ✅ Empty states and loading indicators
-- ✅ Hover effects and smooth transitions
+-  Professional card‑based layouts with 5‑column responsive grid
+-  Real‑time statistics dashboard with live data
+-  Breadcrumb navigation on all pages
+-  Image compression for uploads
+-  Modal‑based editing interfaces
+-  Timeline‑style sales display
+-  Empty states and loading indicators
+-  Hover effects and smooth transitions
 
 ### Data Relationships
-- ✅ Books → Authors (Many‑to‑One)
-- ✅ Sales → Books (Many‑to‑One)
-- ✅ Sales → Clients (Many‑to‑One)
-- ✅ Automatic cascade operations
+-  Books → Authors (Many‑to‑One)
+-  Sales → Books (Many‑to‑One)
+-  Sales → Clients (Many‑to‑One)
+-  Automatic cascade operations
 
 ## Usage
 1. Open the browser and navigate to **http://localhost:5173** to access the frontend.  
@@ -147,26 +147,26 @@ Feel free to contribute to the project by creating pull requests or submitting i
 ## Features Implemented
 
 ### Core Functionality
-- ✅ **Book Management** : Complete CRUD operations with image upload and pagination
-- ✅ **Author Management** : Profile management with average sales calculation
-- ✅ **Client Management** : Customer database with email validation (@)
-- ✅ **Sales Tracking** : Transaction recording with automatic inventory updates
+-  **Book Management** : Complete CRUD operations with image upload and pagination
+-  **Author Management** : Profile management with average sales calculation
+-  **Client Management** : Customer database with email validation (@)
+-  **Sales Tracking** : Transaction recording with automatic inventory updates
 
 ### User Interface
-- ✅ Professional card‑based layouts with 5‑column responsive grid
-- ✅ Real‑time statistics dashboard with live data
-- ✅ Breadcrumb navigation on all pages
-- ✅ Image compression for uploads
-- ✅ Modal‑based editing interfaces
-- ✅ Timeline‑style sales display
-- ✅ Empty states and loading indicators
-- ✅ Hover effects and smooth transitions
+-  Professional card‑based layouts with 5‑column responsive grid
+-  Real‑time statistics dashboard with live data
+-  Breadcrumb navigation on all pages
+-  Image compression for uploads
+-  Modal‑based editing interfaces
+-  Timeline‑style sales display
+-  Empty states and loading indicators
+-  Hover effects and smooth transitions
 
 ### Data Relationships
-- ✅ Books → Authors (Many‑to‑One)
-- ✅ Sales → Books (Many‑to‑One)
-- ✅ Sales → Clients (Many‑to‑One)
-- ✅ Automatic cascade operations
+-  Books → Authors (Many‑to‑One)
+-  Sales → Books (Many‑to‑One)
+-  Sales → Clients (Many‑to‑One)
+-  Automatic cascade operations
 
 ## Usage
 1. Open the browser and navigate to **http://localhost:5173** to access the frontend.  
